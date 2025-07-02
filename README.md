@@ -15,4 +15,4 @@ The game is a simple race where players roll dice to advance their token along a
 ### Debug Mode
 
 To enable **Debug Mode**, you will need to change to true the MODO_DEBUG constant within the source code before compiling.
-When active, instead of a random dice roll, the game will enter the value for the dice rolls provided in the main. This is perfect for testing specific game scenarios.
+When active, instead of a random dice roll, the game will enter the value for the dice rolls provided in the main function. This is perfect for testing specific game scenarios.
